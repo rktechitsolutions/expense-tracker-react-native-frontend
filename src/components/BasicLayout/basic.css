@@ -1,0 +1,65 @@
+.box-bg-color{
+    height: 90px !important;
+    background-image: url(../../assets/images/pattern.png);
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-bottom: 3px solid #b79a6d !important;
+}
+.outer-header{
+    position: absolute !important;
+    /* top: 60px !important; */
+}
+.expense-logo{
+    max-width: 100px !important;  
+    border-right: 1px solid #b79a6d !important;
+    padding-right: 10px !important;
+}
+.css-1xylxj1-MuiTypography-root-MuiLink-root{
+    text-decoration: none !important;
+}
+.css-1u22rsa-MuiTypography-root{
+    font-size: 15px !important;
+    color: #b79a6d !important;
+    text-transform: capitalize !important;
+}
+.css-1mmi318{
+    padding: 10px 20px;
+    font-size: 14px;
+}
+.menu-bar-outer-header{
+    top: 25px !important;
+    left: 100px !important;
+    position: absolute;
+    font-size: 28px;
+    color: #b79a6d !important;
+    display: flex !important;
+    width: max-content;
+    padding-left: 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.menu-bar-outer-header span{
+    color:#707070 !important
+}
+.box-footer-custom{
+    border-bottom: 3px solid #b79a6d !important;
+    border-top: 1px solid #eee;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: red; */
+  /* color: white; */
+  text-align: center;
+}
+.color-custom-grey{
+    color: #666 !important;
+}
+.sign-out-btn{
+    background-color: #f5f5f5 !important;
+    color:#b79a6d !important;
+    float: right !important;
+    margin-right: 7% !important;
+    margin-top: 20px !important;
+}

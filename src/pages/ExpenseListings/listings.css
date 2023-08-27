@@ -1,0 +1,94 @@
+.table-dark{
+    --bs-table-bg:#f4e2c6 !important;
+    --bs-table-striped-bg:#f4e2c6 !important;
+    --bs-table-active-bg:#f4e2c6 !important;
+    --bs-table-hover-bg:#f4e2c6 !important;
+    --bs-table-border-color:#b79a6d !important;
+    color:#333 !important;
+}
+.active>.page-link, .page-link.active{
+    background-color:#b79a6d !important;
+    border-color:#b79a6d !important;
+    color: #fff !important;
+}
+.page-link{
+    color: #b79a6d !important;
+}
+.main_div{
+    display: flex !important;
+}
+.search_add{
+    margin-left: 20px;
+}
+.typo-listings-custom{
+    font-weight: bold !important;
+    color: #333 !important;
+}
+.search_btn_custom{
+    border: 1px solid #b79a6d !important;
+    color: #b79a6d !important;
+}
+.search_btn_custom_filled{
+    border: 1px solid #b79a6d !important;
+    background: #b79a6d !important;
+    color: #fff !important;
+}
+.export_btn_csv{
+    border: 1px solid green !important;
+    color: green !important;
+}
+.export_csv{
+    position: absolute !important;
+    right: 8% !important;
+}.btn-expense-listing{
+    width: 100% !important;
+    float: right !important;
+    text-align: right !important;
+}
+.pt-b-8{
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+.MuiInputBase-adornedEnd{
+    height: 38px !important;
+    width: 100% !important;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    width: 100% !important;
+}
+.dropdown_btn_custom{
+    border: 1px solid #b79a6d !important;
+    background: #fefefe;
+    color: #333;
+}
+.disp-flex{
+    display: flex !important;
+}
+.text-decoration-none{
+    width: 100% !important;
+    display: block !important;
+}
+.fa-chevron-down:before{
+    font-size: 12px !important;
+    color: #666 !important;
+    font-weight: bold !important;
+}
+.text-align-left{
+    text-align: left !important;
+}
+.dropdown-menu.show{
+    height: 200px !important;
+    overflow: hidden !important;
+    overflow-y: scroll !important;
+}
+.min-ht-cust{
+    min-height: 50vh !important;
+}
+.dashboard-class-header .MuiCardHeader-content .MuiCardHeader-title{
+    font-weight: bold !important;
+    color: #444 !important;
+}
+.dashboard-class-header .MuiCardHeader-content .MuiCardHeader-subheader{
+    /* font-weight: bold !important; */
+    color: #b79a6d !important;
+}

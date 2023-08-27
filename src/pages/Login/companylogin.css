@@ -1,0 +1,66 @@
+body {
+
+  }
+  
+  .bg-indigo {
+    background-color: #4835d4;
+  }
+  
+  @media (min-width: 1025px) {
+    .h-custom {
+      height: 100vh !important;
+    }
+  }
+  
+  @media (min-width: 759px) {
+    .card-registration-2 .bg-indigo {
+      border-top-right-radius: 15px;
+      border-bottom-right-radius: 15px;
+    }
+  }
+  
+  @media (max-width: 758px) {
+    .card-registration-2 .bg-indigo {
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px;
+    }
+  }
+  
+  @media (min-width: 759px) {
+    .card-registration-2 .bg-white {
+      border-top-left-radius: 15px;
+      border-bottom-left-radius: 15px;
+    }
+  }
+  
+  @media (max-width: 758px) {
+    .card-registration-2 .bg-white {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+    }
+  }
+  .color-primary{
+    color: #263280;
+}
+.color-seconday{
+    color: #fdb040;
+}
+.bg-primary{
+    background-color: #263280 !important;
+}
+.bg-custom{
+    background-position: left top , right bottom !important;
+    background-repeat: no-repeat !important;
+    background-color: #f4f7fa !important;
+}
+.bg-login{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.b-right-true{
+    border-right: 1px dotted #4f4f4f;
+}
+.m-3-10-em{
+  margin: 1rem 10rem!important;
+}

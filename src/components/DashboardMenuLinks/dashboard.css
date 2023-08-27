@@ -1,0 +1,31 @@
+.w-25{
+    width: 25% !important;
+}
+.box-footer-custom{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* background-color: red; */
+    color: white;
+    text-align: center;
+}
+.custom-body-name{
+    height: 80vh !important;
+}
+.list-group-item.active{
+    background-color:#b79a6d !important;
+}
+.container-div{
+    width: 70% !important;
+    height: max-content;
+    margin-top: 20px !important;
+}
+.MuiTabs-indicator{
+    background-color: #b79a6d !important;
+}
+.btn-custom-add{
+    border: 1px solid #b79a6d !important;
+    color:#b79a6d !important;
+    width: 100% !important
+}
